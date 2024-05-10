@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm just a 13 year old kid 👦
 That want to learn how to program
+<hr>
 
 <!--
 **ademnajjar48tn/ademnajjar48tn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
