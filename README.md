@@ -12,4 +12,4 @@
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ademnajjar48tn&theme=dark" alt="ademnajjar48tn" /></p>
 <img width="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademnajjar48tn&theme=dark&layout=pie"/>
-
+<hr>
