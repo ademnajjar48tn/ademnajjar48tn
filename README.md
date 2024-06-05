@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adem</h1>
 <h3 align="center">A new a developer 👨‍💻</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ademnajjar48tn&label=Profile%20views&color=1c71d8&style=plastic" alt="ademnajjar48tn" /> </p>
+<p align="right"> <img width="135" src="https://komarev.com/ghpvc/?username=ademnajjar48tn&label=Profile%20views&color=1c71d8&style=plastic" alt="ademnajjar48tn" /> </p>
 <h3>Trophies 🏆:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ademnajjar48tn" alt="ademnajjar48tn" /></a> </p>
 
